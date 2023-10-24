@@ -4,35 +4,15 @@
 
 ## Languages and Tools:
 
-[<img align="left" alt="python" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://www.youtube.com/@KanizFatemaKF)
-
-<br />
-
+[<img align="left" alt="python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://www.youtube.com/@KanizFatemaKF)
 
 
 <br />
-
-
-
----
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Kaniz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kaniz-codes&show_icons=true&hide_border=true" />
-
-</details>
-
 <br />
 
-<details>
-  <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Kaniz's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaniz-codes" />
-
-</details>
-<br />
-
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/kaniz111) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaniz111) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/kaniz111) 
 
 
 
@@ -49,8 +29,30 @@
 
 
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/kaniz111) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaniz111) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/kaniz111) 
+
+
+
+
+
+<br />
+<br />
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
+
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
+
+</details>
+
+
 
 
 
