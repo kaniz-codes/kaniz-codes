@@ -11,10 +11,6 @@
 <br />
 
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/kaniz111) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaniz111) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/kaniz111) 
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,10 +34,7 @@
 <br />
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kaniz-codes_icons=true&hide_border=true" />
 
 </details>
 
