@@ -35,15 +35,6 @@
 ---
 
 
-
-</details>
-
-
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
-
-</details>
-
-
 [![](https://visitcount.itsvg.in/api?id=kaniz-codes&icon=5&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
