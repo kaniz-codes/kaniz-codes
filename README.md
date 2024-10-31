@@ -33,6 +33,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kaniz-codes&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats">
   <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kaniz-codes&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats">
+  <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaniz-codes&theme=tokyo-night" alt="Activity Graph">
 </div>
 
