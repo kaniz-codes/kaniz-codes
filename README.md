@@ -42,9 +42,6 @@
   </tr>
   <tr>
     <td align="center" valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaniz-codes&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
-    </td>
-    <td align="center" valign="top" width="50%">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaniz-codes&theme=tokyo-night" alt="Activity Graph">
     </td>
   </tr>
