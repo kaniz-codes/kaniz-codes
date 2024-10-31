@@ -41,7 +41,7 @@
    
   </tr>
   <tr>
-    <td align="center" valign="top" width="190%">
+    <td align="center" valign="top" width="100%">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaniz-codes&theme=tokyo-night" alt="Activity Graph">
     </td>
   </tr>
