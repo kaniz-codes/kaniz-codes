@@ -32,12 +32,13 @@
 
 <table align="center">
   <tr>
+     <td align="center" valign="top" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaniz-codes&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats">
+    </td>
     <td align="center" valign="top" width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=kaniz-codes&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats">
     </td>
-    <td align="center" valign="top" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaniz-codes&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats">
-    </td>
+   
   </tr>
   <tr>
     <td align="center" valign="top" width="50%">
