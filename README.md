@@ -28,16 +28,26 @@
 
 ---
 
-<details>
-  <summary><h2><img align="center" src="https://github.com/kaniz-codes/kaniz-codes/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
-  <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaniz-codes&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats"><br/>
-     <img src="https://github-readme-stats.vercel.app/api?username=kaniz-codes&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaniz-codes&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"><br/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaniz-codes&theme=tokyo-night" alt="Activity Graph">
-  </div>
-</details>
+## Stats
 
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=kaniz-codes&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats">
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaniz-codes&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaniz-codes&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaniz-codes&theme=tokyo-night" alt="Activity Graph">
+    </td>
+  </tr>
+</table>
 
 
 
