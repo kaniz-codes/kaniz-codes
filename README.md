@@ -29,19 +29,9 @@
 ---
 
 
-### Total Hours Spent: **3 hrs 45 mins**
-
-- **C++** - 2 hrs 51 mins
-- **JavaScript** - 29 mins
-- **Markdown** - 14 mins
-- **C#** - 11 mins
-
----
-
 ## Stats
 
 <div align="center">
-  <img src="https://path-to-your-image-or-dashboard" alt="Time Spent on Programming Languages" width="500px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaniz-codes&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats"><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaniz-codes&theme=tokyo-night" alt="Activity Graph">
 </div>
