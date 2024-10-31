@@ -6,18 +6,28 @@
 
 [<img align="left" alt="python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://www.youtube.com/@KanizFatemaKF)
 
-<br />
-<br />
+<br clear="left"/>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### Connect with me:
+
 <p align="left">
-<a href="https://twitter.com/kanizworks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kanizworks" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kaniz111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaniz111" height="30" width="40" /></a>
-<a href="https://instagram.com/learn_with_kaniz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="learn_with_kaniz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@KanizFatemaKF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="KanizFatemaKF" height="30" width="40" /></a>
+  <a href="https://twitter.com/kanizworks" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kanizworks" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/kaniz111" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaniz111" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/learn_with_kaniz" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="learn_with_kaniz" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/@KanizFatemaKF" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="KanizFatemaKF" height="30" width="40" />
+  </a>
 </p>
 
-<br />
+---
 
 <details>
   <summary><h2><img align="center" src="https://github.com/kaniz-codes/kaniz-codes/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
@@ -29,9 +39,6 @@
   </div>
 </details>
 
-
-<br />
-<br />
 
 ---
 
