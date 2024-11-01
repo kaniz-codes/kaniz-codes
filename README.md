@@ -37,7 +37,7 @@
 
 ## Yo
 <div align="center">
-<img src="https://github.com/kaniz-codes/kaniz-codes/blob/main/looading.gif" width="400" />
+<img src="https://github.com/kaniz-codes/kaniz-codes/blob/main/football.gif" width="1000" />
 </div>
 
 ---
