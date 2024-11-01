@@ -35,9 +35,9 @@
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaniz-codes&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" style="width: 45%;" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaniz-codes&theme=tokyo-night" alt="Activity Graph" style="width: 45%;" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaniz-codes&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" style="width: 100%; max-width: 800px;" /><br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaniz-codes&theme=tokyo-night" alt="Activity Graph" style="width: 100%; max-width: 800px;" />
 </div>
 
 
