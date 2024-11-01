@@ -34,10 +34,17 @@
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaniz-codes&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" /><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaniz-codes&theme=tokyo-night" alt="Activity Graph" />
-</div>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaniz-codes&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaniz-codes&theme=tokyo-night" alt="Activity Graph" />
+    </td>
+  </tr>
+</table>
 
 ---
 
