@@ -35,6 +35,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaniz-codes&theme=tokyo-night" alt="Activity Graph">
 </div>
 
+## Yo
+<img src="https://github.com/kaniz-codes/kaniz-codes/blob/main/looading.gif" />
 
 ---
 
