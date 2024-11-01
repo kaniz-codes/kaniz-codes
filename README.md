@@ -49,6 +49,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=kaniz-codes&label=Profile%20Views&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
+[![](https://visitcount.itsvg.in/api?id=kaniz-codes&label=Profile%20Views&icon=3&color=6&style=dark)](https://visitcount.itsvg.in)
+
 
 [![](https://visitcount.itsvg.in/api?id=kaniz-codes&icon=5&color=1)](https://visitcount.itsvg.in)
 
