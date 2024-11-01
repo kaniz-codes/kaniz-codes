@@ -36,11 +36,13 @@
 </div>
 
 ## Yo
-<img src="https://github.com/kaniz-codes/kaniz-codes/blob/main/looading.gif" />
+<div align="center">
+<img src="https://github.com/kaniz-codes/kaniz-codes/blob/main/looading.gif" width="400" />
+</div>
 
 ---
 
 
 [![](https://visitcount.itsvg.in/api?id=kaniz-codes&icon=5&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Kaniz Fatema -->
