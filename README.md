@@ -17,8 +17,9 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaniz-codes&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaniz-codes&theme=vue-dark&hide_border=true)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaniz-codes&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaniz-codes&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
