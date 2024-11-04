@@ -25,11 +25,11 @@
 
 ## 📊 GitHub Stats
 <div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaniz-codes&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" width="50%"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaniz-codes&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" width="55%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaniz-codes&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="45%"/>
 <img src="https://github-readme-stats.vercel.app/api?username=kaniz-codes&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" width="45%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaniz-codes&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" width="45%"/>
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaniz-codes&theme=tokyo-night" alt="Activity Graph"width="45%"/>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaniz-codes&theme=tokyo-night" alt="Activity Graph"width="50%"/>
 </div>
 
 ---
