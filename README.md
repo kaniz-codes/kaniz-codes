@@ -29,6 +29,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaniz-codes&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="45%"/>
 <img src="https://github-readme-stats.vercel.app/api?username=kaniz-codes&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" width="45%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaniz-codes&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" width="45%"/>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaniz-codes&theme=tokyo-night" alt="Activity Graph"width="45%"/>
 </div>
 
 ---
