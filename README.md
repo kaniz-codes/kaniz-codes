@@ -18,5 +18,5 @@
 
 
 [![](https://visitcount.itsvg.in/api?id=kaniz-codes&icon=5&color=1)](https://visitcount.itsvg.in)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaniz-codes&label=Profile%20views&color=0e75b6&style=flat" alt="kaniz-codes" /> </p>
 <!-- Kaniz Fatema -->
