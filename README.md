@@ -13,7 +13,8 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaniz-codes&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaniz-codes&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="40%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaniz-codes&theme=tokyo-night" alt="Activity Graph"width="55%"/>
+ <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaniz-codes&theme=tokyo-night" alt="Activity Graph"width="55%"/> -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kaniz-codes&theme=default&layout=compact&display_format=time&langs_count=4&custom_title=Time%20Spent" width="62%" alt="<!-- Time Spend -->" align="top"/>
 </div>
 ---
 
