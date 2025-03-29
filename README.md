@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaniz-codes&label=Profile%20views&color=0e75b6&style=flat" alt="kaniz-codes" /> </p>
 ---
-## 📊 GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaniz-codes&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaniz-codes&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="40%"/>
