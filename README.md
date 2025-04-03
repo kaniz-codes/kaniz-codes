@@ -16,7 +16,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaniz-codes&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kaniz-codes&theme=dark&ring=6c63ff&fire=6c63ff&currStreakLabel=ffffff" width="500" alt="GitHub Streak Stats" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaniz-codes&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" /><br/> -->
 <br/><br/>
 
 <table>
