@@ -1,7 +1,7 @@
 # Hello World, I'm Kaniz 👋
 
 [![wakatime](https://wakatime.com/badge/user/82f42c29-ecd4-4d2f-aac5-d42b01413a94.svg)](https://wakatime.com/@82f42c29-ecd4-4d2f-aac5-d42b01413a94)
-
+![Profile views](https://komarev.com/ghpvc/?username=kaniz-codes&label=Profile%20views&color=6c63ff&style=flat)
 
 <div align="center">
   <img alt="Coding GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="400" height="300" />
