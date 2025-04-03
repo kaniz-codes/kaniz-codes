@@ -23,7 +23,8 @@
 </p>
 
 ---
-![Trophies](https://github-profile-trophy.vercel.app/?username=kaniz-codes&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaniz-codes&show_icons=true&theme=radical)
+
 
 
 
