@@ -19,6 +19,24 @@
  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaniz-codes&theme=tokyo-night" alt="Activity Graph"width="55%"/> -->
   </div>
 ---
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaniz-codes&theme=dark&ring=6c63ff&fire=6c63ff&currStreakLabel=ffffff" />
+
+<br/><br/>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaniz-codes&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaniz-codes&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
+
+</div>
 
 
 ---
