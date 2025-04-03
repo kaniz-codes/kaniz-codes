@@ -17,6 +17,14 @@
   </div>
 ---
 
+## 🧭 Map of Achievements
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaniz-codes&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaniz-codes&theme=radical" />
+</p>
+
+---
 
 
 <!-- Kaniz Fatema -->
