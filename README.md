@@ -23,6 +23,8 @@
 </p>
 
 ---
+![Trophies](https://github-profile-trophy.vercel.app/?username=kaniz-codes&theme=gruvbox)
+
 
 
 <!-- Kaniz Fatema -->
