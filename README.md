@@ -37,7 +37,36 @@
 </table>
 
   </div>
+  
 ---
 
+###  Featured Projects
+
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/kaniz-codes/CSE-111">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaniz-codes&repo=c_programming_course&theme=tokyonight&hide_border=true" />
+    </td>
+    <td>
+      <a href="https://github.com/kaniz-codes/cse222">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaniz-codes&repo=CSE-111&theme=tokyonight&hide_border=true" />
+    </td>
+    <tr>
+    <td>
+      <a href="https://github.com/kaniz-codes/CSE-111">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaniz-codes&repo=cse222&theme=tokyonight&hide_border=true" />
+    </td>
+    <td>
+      <a href="https://github.com/kaniz-codes/cse222">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaniz-codes&repo=codeforces-contests-solve&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+  </tr>
+</table>
+</div>
+
+---
 
 <!-- Kaniz Fatema -->
