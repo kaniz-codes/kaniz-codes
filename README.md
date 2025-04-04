@@ -15,7 +15,7 @@
 
 ---
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaniz-codes&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" /><br/>
+  <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=kaniz-codes&theme=rose_pine&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&card_height=207" /><br/>
 <br/><br/>
 
 <table>
