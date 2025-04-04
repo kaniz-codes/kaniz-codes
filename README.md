@@ -14,18 +14,20 @@
 </div>
 
 ---
+## 🌱 GitHub Growth & Activity
+<!-- 🌿 Streak Tracker -->
+<p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaniz-codes&theme=highcontrast" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaniz-codes&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" /><br/>
-<br/><br/>
-
-<table>
+<!-- 🍂 Profile Details + Languages -->
+<table align="center">
   <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaniz-codes&theme=tokyonight" />
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaniz-codes&theme=gruvbox" />
     </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaniz-codes&theme=tokyonight" />
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaniz-codes&theme=gruvbox" />
     </td>
   </tr>
 </table>
