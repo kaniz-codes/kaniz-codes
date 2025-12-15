@@ -12,12 +12,12 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats-lovat-beta.vercel.app/api?username=kaniz-codes&theme=tokyonight&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" width="53.9%"/>
-  <img src="https://github-readme-stats-lovat-beta.vercel.app/api/top-langs/?username=kaniz-codes&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" width="41%"/>
-  <br>
-  <img src="https://github-readme-stats-lovat-beta.vercel.app/api/wakatime?username=kaniz111&theme=tokyonight&layout=compact&display_format=time&langs_count=4&custom_title=Time%20Spent&hide_border=true" width="47.42%" align="top"/>
+<img src="https://github-readme-stats-kaniz111.vercel.app?user=kaniz-codes&theme=tokyonight&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&card_height=207" width="53.9%"/>
+<img src="https://github-readme-stats-kaniz111.vercel.app/api/top-langs/?username=kaniz-codes&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" width="41%" alt="<!-- Language Stats -->"/>
+<br>
+<img src="https://github-readme-stats-kaniz111.vercel.app/api/cards/profile-details?username=kaniz-codes&theme=tokyonight"  width="47%"/>
+<img src="https://github-readme-stats-kaniz111.vercel.app/api/wakatime?username=kaniz111&theme=tokyonight&layout=compact&display_format=time&langs_count=4&custom_title=Time%20Spent&hide_border=true" width="47.42%" alt="<!-- Time Spend -->" align="top"/>
 </p>
-
 
 ---
 
