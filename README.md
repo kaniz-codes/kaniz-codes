@@ -12,13 +12,19 @@
 ---
 
 <p align="center">
-<img src="https://github-readme-stats-kaniz111.vercel.app?user=kaniz-codes&theme=tokyonight&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&card_height=207" width="53.9%"/>
-<img src="https://github-readme-stats-kaniz111.vercel.app/api/top-langs/?username=kaniz-codes&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" width="41%" alt="<!-- Language Stats -->"/>
-<br>
-<img src="https://github-readme-stats-kaniz111.vercel.app/api/cards/profile-details?username=kaniz-codes&theme=tokyonight"  width="47%"/>
-<img src="https://github-readme-stats-kaniz111.vercel.app/api/wakatime?username=kaniz111&theme=tokyonight&layout=compact&display_format=time&langs_count=4&custom_title=Time%20Spent&hide_border=true" width="47.42%" alt="<!-- Time Spend -->" align="top"/>
+<!-- BEGIN COMP-STREAK -->
+<picture><source srcset="https://github-readme-stats-kaniz111.vercel.app/?theme=rose_pine&hide_border=true&user=kaniz-codes&border_radius=5&date_format=j%20M%5B%20Y%5D&card_height=207" media="(max-width: 768px)" width="100%"/><source srcset="https://github-readme-stats-kaniz111.vercel.app/?theme=rose_pine&hide_border=true&user=kaniz-codes&border_radius=5&date_format=j%20M%5B%20Y%5D&card_height=207" media="(prefers-color-scheme: dark)" width="47%"/><img src="https://github-readme-stats-kaniz111.vercel.app/?theme=default&hide_border=false&user=kaniz-codes&border_radius=5&date_format=j%20M%5B%20Y%5D&card_height=207" width="47%" alt="<!-- Streak Stats -->"/></picture>
+<!-- END COMP-STREAK -->
+<!-- BEGIN COMP-STATS -->
+<picture><source srcset="https://github-readme-stats-kaniz111.vercel.app/api/?theme=rose_pine&hide_border=true&username=kaniz-codes&count_private=true&show_icons=true&include_all_commits=true&custom_title=GitHub%20Stats&rank_icon=percentile" media="(max-width: 768px)" width="100%"/><source srcset="https://github-readme-stats-kaniz111.vercel.app/api/?theme=rose_pine&hide_border=true&username=kaniz-codes&count_private=true&show_icons=true&include_all_commits=true&custom_title=GitHub%20Stats&rank_icon=percentile" media="(prefers-color-scheme: dark)" width="47%"/><img src="https://github-readme-stats-kaniz111.vercel.app/api/?theme=default&hide_border=false&username=kaniz-codes&count_private=true&show_icons=true&include_all_commits=true&custom_title=GitHub%20Stats&rank_icon=percentile" width="47%" alt="<!-- GitHub Stats -->"/></picture>
+<!-- END COMP-STATS -->
+<!-- BEGIN COMP-LANG -->
+<picture><source srcset="https://github-readme-stats-kaniz111.vercel.app/api/top-langs/?theme=rose_pine&hide_border=true&username=kaniz-codes&layout=compact&langs_count=6" media="(max-width: 768px)" width="100%"/><source srcset="https://github-readme-stats-kaniz111.vercel.app/api/top-langs/?theme=rose_pine&hide_border=true&username=kaniz-codes&layout=compact&langs_count=6" media="(prefers-color-scheme: dark)" width="32%"/><img src="https://github-readme-stats-kaniz111.vercel.app/api/top-langs/?theme=default&hide_border=false&username=kaniz-codes&layout=compact&langs_count=6" width="32%" alt="<!-- Language Stats -->"/></picture>
+<!-- END COMP-LANG -->
+<!-- BEGIN COMP-TIME -->
+<picture><source srcset="https://github-readme-stats-kaniz111.vercel.app/api/wakatime/?theme=rose_pine&hide_border=true&username=kaniz-codes&layout=compact&display_format=time&langs_count=4&custom_title=Time%20Spent" media="(max-width: 768px)" width="100%"/><source srcset="https://github-readme-stats-kaniz111.vercel.app/api/wakatime/?theme=rose_pine&hide_border=true&username=kaniz-codes&layout=compact&display_format=time&langs_count=4&custom_title=Time%20Spent" media="(prefers-color-scheme: dark)" width="62%" align="top"/><img src="https://github-readme-stats-kaniz111.vercel.app/api/wakatime/?theme=default&hide_border=false&username=kaniz-codes&layout=compact&display_format=time&langs_count=4&custom_title=Time%20Spent" width="62%" alt="<!-- Time Spend -->" align="top"/></picture>
+<!-- END COMP-TIME -->
 </p>
-
 ---
 
 ### Featured Projects
