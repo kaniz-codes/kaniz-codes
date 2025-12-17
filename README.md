@@ -21,10 +21,15 @@
 <!-- BEGIN COMP-LANG -->
 <picture><source srcset="https://github-readme-stats-kaniz111.vercel.app/api/top-langs/?theme=rose_pine&hide_border=true&username=kaniz-codes&layout=compact&langs_count=6" media="(max-width: 768px)" width="100%"/><source srcset="https://github-readme-stats-kaniz111.vercel.app/api/top-langs/?theme=rose_pine&hide_border=true&username=kaniz-codes&layout=compact&langs_count=6" media="(prefers-color-scheme: dark)" width="32%"/><img src="https://github-readme-stats-kaniz111.vercel.app/api/top-langs/?theme=default&hide_border=false&username=kaniz-codes&layout=compact&langs_count=6" width="32%" alt="<!-- Language Stats -->"/></picture>
 <!-- END COMP-LANG -->
+
 <!-- BEGIN COMP-TIME -->
-<picture><source srcset="https://github-readme-stats-kaniz111.vercel.app/api/wakatime/?theme=rose_pine&hide_border=true&username=kaniz-codes&layout=compact&display_format=time&langs_count=4&custom_title=Time%20Spent" media="(max-width: 768px)" width="100%"/><source srcset="https://github-readme-stats-kaniz111.vercel.app/api/wakatime/?theme=rose_pine&hide_border=true&username=kaniz-codes&layout=compact&display_format=time&langs_count=4&custom_title=Time%20Spent" media="(prefers-color-scheme: dark)" width="62%" align="top"/><img src="https://github-readme-stats-kaniz111.vercel.app/api/wakatime/?theme=default&hide_border=false&username=kaniz-codes&layout=compact&display_format=time&langs_count=4&custom_title=Time%20Spent" width="62%" alt="<!-- Time Spend -->" align="top"/></picture>
+<picture>
+  <source srcset="https://github-readme-stats-kaniz111.vercel.app/api/wakatime/?theme=rose_pine&hide_border=true&username=YOUR_WAKATIME_USERNAME&layout=compact&display_format=time&langs_count=4&custom_title=Time%20Spent" media="(max-width: 768px)" width="100%"/>
+  <source srcset="https://github-readme-stats-kaniz111.vercel.app/api/wakatime/?theme=rose_pine&hide_border=true&username=YOUR_WAKATIME_USERNAME&layout=compact&display_format=time&langs_count=4&custom_title=Time%20Spent" media="(prefers-color-scheme: dark)" width="62%" align="top"/>
+  <img src="https://github-readme-stats-kaniz111.vercel.app/api/wakatime/?theme=default&hide_border=false&username=YOUR_WAKATIME_USERNAME&layout=compact&display_format=time&langs_count=4&custom_title=Time%20Spent" width="62%" alt="<!-- Time Spent -->" align="top"/>
+</picture>
 <!-- END COMP-TIME -->
-</p>
+
 ---
 
 ### Featured Projects
