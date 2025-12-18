@@ -12,7 +12,7 @@
 ---
 <p align="center">
 <!-- BEGIN COMP-STREAK -->
-<picture><source srcset="https://github-readme-stats-kaniz111.vercel.app/?theme=rose_pine&hide_border=true&user=kaniz-codes&border_radius=5&date_format=j%20M%5B%20Y%5D&card_height=207" media="(max-width: 768px)" width="100%"/><source srcset="https://github-readme-stats-kaniz111.vercel.app/?theme=rose_pine&hide_border=true&user=kaniz-codes&border_radius=5&date_format=j%20M%5B%20Y%5D&card_height=207" media="(prefers-color-scheme: dark)" width="47%"/><img src="https://github-readme-stats-kaniz111.vercel.app/?theme=default&hide_border=false&user=kaniz-codes&border_radius=5&date_format=j%20M%5B%20Y%5D&card_height=207" width="47%" alt="<!-- Streak Stats -->"/></picture>
+<picture><source srcset="https://github-readme-streak-stats-seven-azure.vercel.app/?theme=rose_pine&hide_border=true&user=kaniz111&border_radius=5&date_format=j%20M%5B%20Y%5D&card_height=207" media="(max-width: 768px)" width="100%"/><source srcset="https://github-readme-streak-stats-seven-azure.vercel.app/?theme=rose_pine&hide_border=true&user=kaniz111&border_radius=5&date_format=j%20M%5B%20Y%5D&card_height=207" media="(prefers-color-scheme: dark)" width="47%"/><img src="https://github-readme-streak-stats-seven-azure.vercel.app/?theme=default&hide_border=false&user=kaniz111&border_radius=5&date_format=j%20M%5B%20Y%5D&card_height=207" width="47%" alt="<!-- Streak Stats -->"/></picture>
 <!-- END COMP-STREAK -->
 
 <!-- BEGIN COMP-STATS -->
