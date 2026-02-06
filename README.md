@@ -3,7 +3,7 @@
 
 <p align="center">💻 Programmer | 🚀 Learner | 🎨 Designer<br>Blending my curiosity with logic.</p>
 
-<p align="center"><img src="./code.gif" width="500px"/></p>
+<p align="center"><img src="./assets/code.gif" width="500px"/></p>
 
 <p align="center">
 <a href="https://wakatime.com/@82f42c29-ecd4-4d2f-aac5-d42b01413a94"><img src="https://wakatime.com/badge/user/82f42c29-ecd4-4d2f-aac5-d42b01413a94.svg" /></a> <img src="https://komarev.com/ghpvc/?username=kaniz-codes&label=Profile%20views&color=6c63ff&style=flat" />
