@@ -2,9 +2,9 @@
 # Hello World, I'm Kaniz 👋🏼
 
 <p align="center">
-  <img src="assets/programmer.gif" height="20" align="absmiddle" /> Programmer &nbsp;|&nbsp;
-  <img src="assets/learner.gif" height="20" align="absmiddle" /> Learner &nbsp;|&nbsp;
-  <img src="assets/designer.png" height="20" align="absmiddle" /> Designer
+  <img src="assets/programmer.gif" height="22" align="absmiddle" /> Programmer &nbsp;|&nbsp;
+  <img src="assets/learner.gif" height="22" align="absmiddle" /> Learner &nbsp;|&nbsp;
+  <img src="assets/designer.png" height="22" align="absmiddle" /> Designer
   <br />
   Blending my curiosity with logic.
 </p>
