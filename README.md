@@ -2,10 +2,10 @@
 # Hello World, I'm Kaniz 👋🏼
 
 <p align="center">
-  <img src="assets/programmer.gif" height="20" style="vertical-align:middle;" /> Programmer &nbsp;|&nbsp;
-  <img src="assets/learner.gif" height="20" style="vertical-align:middle;" /> Learner &nbsp;|&nbsp;
-  <img src="assets/designer.png" height="20" style="vertical-align:middle;" /> Designer
-  <br>
+  <img src="assets/programmer.gif" height="20" align="absmiddle" /> Programmer &nbsp;|&nbsp;
+  <img src="assets/learner.gif" height="20" align="absmiddle" /> Learner &nbsp;|&nbsp;
+  <img src="assets/designer.png" height="20" align="absmiddle" /> Designer
+  <br />
   Blending my curiosity with logic.
 </p>
 
