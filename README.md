@@ -1,10 +1,21 @@
 
 # Hello World, I'm Kaniz 👋🏼
 
-<p align="center"><span style="display:inline-flex;align-items:center;gap:6px;"><img src="assets/programmer.gif" height="20" style="vertical-align:middle;" /> Programmer</span> &nbsp;|&nbsp; <span style="display:inline-flex;align-items:center;gap:6px;"><img src="assets/learner.gif" height="20" style="vertical-align:middle;" /> Learner</span> &nbsp;|&nbsp; <span style="display:inline-flex;align-items:center;gap:6px;"><img src="assets/designer.png" height="20" style="vertical-align:middle;" /> Designer</span><br/>Blending my curiosity with logic.</p>
+<p align="center">
+  <img src="assets/programmer.gif" height="20" style="vertical-align:middle;" /> Programmer &nbsp;|&nbsp;
+  <img src="assets/learner.gif" height="20" style="vertical-align:middle;" /> Learner &nbsp;|&nbsp;
+  <img src="assets/designer.png" height="20" style="vertical-align:middle;" /> Designer
+  <br>
+  Blending my curiosity with logic.
+</p>
+
+<p align="center"><img src="./assets/code.gif" width="500px"/></p>
+
+<p align="center">
+<a href="https://wakatime.com/@82f42c29-ecd4-4d2f-aac5-d42b01413a94"><img src="https://wakatime.com/badge/user/82f42c29-ecd4-4d2f-aac5-d42b01413a94.svg" /></a> <img src="https://komarev.com/ghpvc/?username=kaniz-codes&label=Profile%20views&color=6c63ff&style=flat" />
+</p>
 
 ---
-
 ### Statistics
 
 <p align="center">
