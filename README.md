@@ -1,7 +1,13 @@
 
 # Hello World, I'm Kaniz 👋🏼
 
-<p align="center">💻 Programmer | 🚀 Learner | 🎨 Designer<br>Blending my curiosity with logic.</p>
+<p align="center">
+  <img src="assets/programmer.gif" height="20" style="vertical-align:middle;" /> Programmer &nbsp;|&nbsp;
+  <img src="assets/learner.gif" height="20" style="vertical-align:middle;" /> Learner &nbsp;|&nbsp;
+  <img src="assets/designer.png" height="20" style="vertical-align:middle;" /> Designer
+  <br>
+  Blending my curiosity with logic.
+</p>
 
 <p align="center"><img src="./assets/code.gif" width="500px"/></p>
 
