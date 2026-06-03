@@ -1,4 +1,3 @@
-
 # Hello World, I'm Kaniz 👋🏼
 
 <p align="center">
@@ -26,6 +25,26 @@
 <picture><source media="(max-width: 768px)" srcset="https://readme-streak-stats-kaniz111.vercel.app/api/top-langs/?username=kaniz-codes&layout=compact&langs_count=6&theme=default&hide_border=false" width="100%"/><source media="(prefers-color-scheme: dark)" srcset="https://readme-streak-stats-kaniz111.vercel.app/api/top-langs/?username=kaniz-codes&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" width="37%"/><source media="(prefers-color-scheme: light)" srcset="https://readme-streak-stats-kaniz111.vercel.app/api/top-langs/?username=kaniz-codes&layout=compact&langs_count=6&theme=default&hide_border=false" width="37%"/><img src="https://readme-streak-stats-kaniz111.vercel.app/api/top-langs/?username=kaniz-codes&layout=compact&langs_count=6&theme=default&hide_border=false" width="37%" alt="<!-- Language Stats -->"/></picture>
 <!-- END COMP-LANG -->
 </p>
+
+---
+
+### YouTube Channel
+
+My learning and study materials on YouTube.
+
+<p align="center">
+  <a href="https://www.youtube.com/@KanizFatemaKF">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-CB3837?style=flat&logo=youtube&logoColor=white" alt="YouTube Channel" />
+  </a>
+  <a href="https://www.youtube.com/@KanizFatemaKF">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCAUO934ySp_Tv7xGnqz4G6g?style=flat&logo=youtube&logoColor=white&label=Subscribers&color=3837" alt="YouTube Subscribers" />
+  </a>
+</p>
+
+<p align="center"> 
+<a href="https://youtube.com/playlist?list=PL1BNWNaLmmqziTVWORIrbQ7Y1D8sCzzkJ&si=XCy3nEdpoqXWckht"> <img width="31%" src="assets/playlist1.jpg" alt="Playlist 1" /> </a> 
+<a href="https://youtube.com/playlist?list=PL1BNWNaLmmqzYwoDvw1xpLNdGpWGPyaUN&si=UHdRBQxAISniGbmz"> <img width="31%" src="assets/playlist2.jpg" alt="Playlist 2" /> </a> 
+<a href="https://youtube.com/playlist?list=PL1BNWNaLmmqy1Q2r7qAKD8aNRzy0fDKqK&si=W3lPk_xuHo7CbyuL"> <img width="31%" src="assets/playlist3.jpg" alt="Playlist 3" /> </a> </p>
 
 ---
 ### University Repositories
