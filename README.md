@@ -37,8 +37,8 @@ My learning and study materials on YouTube.
     <img src="https://img.shields.io/badge/YouTube-Subscribe-CB3837?style=flat&logo=youtube&logoColor=white" alt="YouTube Channel" />
   </a>
   <a href="https://www.youtube.com/@KanizFatemaKF">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCAUO934ySp_Tv7xGnqz4G6g?style=flat&logo=youtube&logoColor=white&label=Subscribers&color=3837" alt="YouTube Subscribers" />
-  </a>
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCAUO934ySp_Tv7xGnqz4G6g?style=flat&label=Subscribers&color=6c63ff" alt="YouTube Subscribers" />
+</a>
 </p>
 
 <p align="center"> 
