@@ -11,7 +11,7 @@
 <p align="center"><img src="./assets/code.gif" width="500px"/></p>
 
 <p align="center">
-<a href="https://wakatime.com/@82f42c29-ecd4-4d2f-aac5-d42b01413a94"><img src="https://wakatime.com/badge/user/82f42c29-ecd4-4d2f-aac5-d42b01413a94.svg" /></a> <img src="https://komarev.com/ghpvc/?username=kaniz-codes&label=Profile%20views&color=6c63ff&style=flat" />
+<a href="https://wakatime.com/@82f42c29-ecd4-4d2f-aac5-d42b01413a94"><img src="https://wakatime.com/badge/user/82f42c29-ecd4-4d2f-aac5-d42b01413a94.svg" height="22"/></a> <img src="https://komarev.com/ghpvc/?username=kaniz-codes&label=Profile%20views&color=6c63ff&style=flat" height="22"/>
 </p>
 
 ---
@@ -34,17 +34,26 @@ My learning and study materials on YouTube.
 
 <p align="center">
   <a href="https://www.youtube.com/@KanizFatemaKF">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-CB3837?style=flat&logo=youtube&logoColor=white" alt="YouTube Channel" />
+  <img
+    src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+    alt="YouTube Channel"
+    height="24"
+    style="border-radius: 4px;"
+    />
   </a>
   <a href="https://www.youtube.com/@KanizFatemaKF">
-  <img src="https://img.shields.io/youtube/channel/subscribers/UCAUO934ySp_Tv7xGnqz4G6g?style=flat&label=Subscribers&color=6c63ff" alt="YouTube Subscribers" />
-</a>
+    <img  src="https://img.shields.io/badge/Subscribers-253-6C63FF?style=for-the-badge&logo=youtube&logoColor=white" 
+    alt="YouTube Subscribers"
+    style="border-radius: 4px;"
+    height="24"
+    />
 </p>
 
 <p align="center"> 
 <a href="https://youtube.com/playlist?list=PL1BNWNaLmmqziTVWORIrbQ7Y1D8sCzzkJ&si=XCy3nEdpoqXWckht"> <img width="31%" src="assets/playlist1.jpg" alt="Playlist 1" /> </a> 
 <a href="https://youtube.com/playlist?list=PL1BNWNaLmmqzYwoDvw1xpLNdGpWGPyaUN&si=UHdRBQxAISniGbmz"> <img width="31%" src="assets/playlist2.jpg" alt="Playlist 2" /> </a> 
 <a href="https://youtube.com/playlist?list=PL1BNWNaLmmqy1Q2r7qAKD8aNRzy0fDKqK&si=W3lPk_xuHo7CbyuL"> <img width="31%" src="assets/playlist3.jpg" alt="Playlist 3" /> </a> </p>
+</p>
 
 ---
 ### University Repositories
@@ -72,6 +81,7 @@ My university coursework archive of course materials, assignments and practice.
   <a href="https://github.com/kaniz-codes/cse222"><picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-streak-stats-kaniz111.vercel.app/api/pin/?username=kaniz-codes&repo=cse222&theme=tokyonight&hide_border=true&description_lines_count=3"/><source media="(prefers-color-scheme: light)" srcset="https://readme-streak-stats-kaniz111.vercel.app/api/pin/?username=kaniz-codes&repo=cse222&theme=default&hide_border=false&description_lines_count=3"/><img width="47%" src="https://readme-streak-stats-kaniz111.vercel.app/api/pin/?username=kaniz-codes&repo=cse222&theme=default&hide_border=false&description_lines_count=3" alt="Repository Card CSE 222"/></picture></a><!-- CSE 222 -->
   <a href="https://github.com/kaniz-codes/cse111"><picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-streak-stats-kaniz111.vercel.app/api/pin/?username=kaniz-codes&repo=cse111&theme=tokyonight&hide_border=true&description_lines_count=3"/><source media="(prefers-color-scheme: light)" srcset="https://readme-streak-stats-kaniz111.vercel.app/api/pin/?username=kaniz-codes&repo=cse111&theme=default&hide_border=false&description_lines_count=3"/><img width="47%" src="https://readme-streak-stats-kaniz111.vercel.app/api/pin/?username=kaniz-codes&repo=cse111&theme=default&hide_border=false&description_lines_count=3" alt="Repository Card CSE 111"/></picture></a><!-- CSE 111 -->
   <a href="https://github.com/kaniz-codes/cse101"><picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-streak-stats-kaniz111.vercel.app/api/pin/?username=kaniz-codes&repo=cse101&theme=tokyonight&hide_border=true&description_lines_count=3"/><source media="(prefers-color-scheme: light)" srcset="https://readme-streak-stats-kaniz111.vercel.app/api/pin/?username=kaniz-codes&repo=cse101&theme=default&hide_border=false&description_lines_count=3"/><img width="47%" src="https://readme-streak-stats-kaniz111.vercel.app/api/pin/?username=kaniz-codes&repo=cse101&theme=default&hide_border=false&description_lines_count=3" alt="Repository Card CSE 101"/></picture></a><!-- CSE 101 -->
+  </div>
   </details>
 </p>
 <!-- repository cards here -->
