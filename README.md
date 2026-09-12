@@ -11,7 +11,7 @@
 <p align="center"><img src="./assets/code.gif" width="500px"/></p>
 
 <p align="center">
-<a href="https://wakatime.com/@82f42c29-ecd4-4d2f-aac5-d42b01413a94"><img src="https://wakatime.com/badge/user/82f42c29-ecd4-4d2f-aac5-d42b01413a94.svg" height="22"/></a> <img src="https://komarev.com/ghpvc/?username=kaniz-codes&label=Profile%20views&color=6c63ff&style=flat" height="22"/>
+<a href="https://wakatime.com/@82f42c29-ecd4-4d2f-aac5-d42b01413a94"><img src="https://wakatime.com/badge/user/82f42c29-ecd4-4d2f-aac5-d42b01413a94.svg" height="26"/></a> <img src="https://komarev.com/ghpvc/?username=kaniz-codes&label=Profile%20views&color=6c63ff&style=flat" height="26"/>
 </p>
 
 ---
@@ -37,7 +37,7 @@ My learning and study materials on YouTube.
   <img
     src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
     alt="YouTube Channel"
-    height="24"
+    height="28"
     style="border-radius: 4px;"
     />
   </a>
@@ -45,7 +45,7 @@ My learning and study materials on YouTube.
     <img  src="https://img.shields.io/badge/Subscribers-253-6C63FF?style=for-the-badge&logo=youtube&logoColor=white" 
     alt="YouTube Subscribers"
     style="border-radius: 4px;"
-    height="24"
+    height="28"
     />
 </p>
 
